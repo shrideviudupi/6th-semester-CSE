@@ -1,0 +1,7 @@
+Welcome to Department of CSE
+Available courses the current year are:
+ST
+NSM
+IOT
+
+
